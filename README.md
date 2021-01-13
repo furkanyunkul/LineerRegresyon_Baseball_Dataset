@@ -19,3 +19,5 @@ Veri seti Kaggle’dan (baseball-reference.com’dan toplanmış) alınmıştır
 •	G(Game): Oyun Sayısı
 •	OOBP(Opponent’s On Base Percentage):  Rakip Temel Yüzde
 •	OSLG(Opponents Slugging Percentage): Rakip Yavaşlatma Yüzdesi
+
+![metin](https://github.com/furkanyunkul/LineerRegresyon_Baseball_Dataset/blob/main/1.JPG)
