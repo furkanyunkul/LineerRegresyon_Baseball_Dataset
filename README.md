@@ -21,3 +21,6 @@ Veri seti Kaggle’dan (baseball-reference.com’dan toplanmış) alınmıştır
 •	OSLG(Opponents Slugging Percentage): Rakip Yavaşlatma Yüzdesi
 
 ![metin](https://github.com/furkanyunkul/LineerRegresyon_Baseball_Dataset/blob/main/1.JPG)
+![metin](https://github.com/furkanyunkul/LineerRegresyon_Baseball_Dataset/blob/main/2.JPG)
+![metin](https://github.com/furkanyunkul/LineerRegresyon_Baseball_Dataset/blob/main/3.JPG)
+![metin](https://github.com/furkanyunkul/LineerRegresyon_Baseball_Dataset/blob/main/korrleasyon.png)
